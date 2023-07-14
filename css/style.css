@@ -1,0 +1,21 @@
+header {
+    margin-top: 30px;
+    color: #2E99A9;
+}
+
+.box {
+    height: 250px;
+    width: 350px;
+}
+
+#red-box {
+    background-color: red;
+}
+
+#blue-box {
+    background-color: blue;
+}
+
+#green-box {
+    background-color: green;
+}
